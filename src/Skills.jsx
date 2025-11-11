@@ -1,15 +1,16 @@
-function Skills(){
+function Skills() {
 
-    return(
+    return (
 
         <div className="skills">
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>Git & Github</li>
-</ul>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Bootstrap</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>Git & Github</li>
+            </ul>
         </div>
     )
 }

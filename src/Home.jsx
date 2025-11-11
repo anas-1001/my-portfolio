@@ -7,7 +7,7 @@ function Home(){
         <div className="home-style">
              <img src={profileImg} alt="profile" className="profile-img"/>
   <h2>Hi,I'm <span>Anas Ansari</span></h2>
-  <p>Frontend Developer|HTML|CSS|Javascript|React</p>
+  <p>Frontend Developer|HTML|CSS|Bootstrap|Javascript|React</p>
     <Link to="/projects" className="btn">View my Work</Link>
         </div>
     )
