@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+
 
 function Projects() {
 
@@ -8,8 +8,7 @@ function Projects() {
             <div className="project-card">
                 <h3>My First Website</h3>
                 <p>A responsive gym website made with HTML and CSS and Bootstrap</p>
-                {/* <a href="https://anas-1001.github.io/bootstrap-project/" target="_blank">View on Github</a> */}
-                     <Link to="https://anas-1001.github.io/bootstrap-project/" >View my Work</Link>
+                <a href="https://anas-1001.github.io/bootstrap-project/" target="_blank">View on Github</a>
             </div>
             <div className="project-card">
                 <h3>React Projects</h3>
