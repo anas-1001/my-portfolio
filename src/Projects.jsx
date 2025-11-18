@@ -8,7 +8,7 @@ function Projects() {
             <div className="project-card">
                 <h3>My First Website</h3>
                 <p>A responsive gym website made with HTML and CSS and Bootstrap</p>
-                <a href="https://anas-1001.github.io/bootstrap-project/" target="_blank">View on Github</a>
+                <a href="https://github.com/anas-1001/bootstrap-project/" target="_blank">View on Github</a>
             </div>
             <div className="project-card">
                 <h3>React Projects</h3>
