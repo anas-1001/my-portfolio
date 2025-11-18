@@ -12,8 +12,8 @@ function Projects() {
             </div>
             <div className="project-card">
                 <h3>React Projects</h3>
-                <p>A personal portfolio built using React and Vite.</p>
-                <a href="#">View on Github</a>
+                <p>A personal portfolio built using React + Vite and React Router.</p>
+                <a href="https://github.com/anas-1001/my-portfolio/">View on Github</a>
             </div>
 
         </div>
