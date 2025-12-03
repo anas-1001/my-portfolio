@@ -1,6 +1,6 @@
 {
   "homepage": "https://anas-1001.github.io/my-portfolio",
-  "name": "react-learn",
+  "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,12 +14,14 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
+    "css": "^3.0.0",
     "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.1",
     "react-router": "^7.9.4",
-    "styled-components": "^6.1.19"
+    "styled-components": "^6.1.19",
+    "tailwind": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

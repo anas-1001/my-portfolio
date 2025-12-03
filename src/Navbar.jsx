@@ -1,8 +1,10 @@
 import { Link } from "react-router";
 
-function Navbar() {
 
-    return (<>
+function NavbarComponent() {
+
+    return (
+    <>
         <div className="navbar">
             <Link to={"/"} className="logo">Anas Ansari</Link>
             <ul>
@@ -18,7 +20,8 @@ function Navbar() {
             </ul>
 
         </div>
+        
     </>
     )
 }
-export default Navbar;
+export default NavbarComponent;
